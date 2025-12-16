@@ -1,0 +1,29 @@
+{
+  "id": "cJjpTZsYwk_9",
+  "slug": "boycott-coca-cola",
+  "title": "বয়কট কোকাকোলা!",
+  "subtitle": "সমসাময়িক প্রতিবাদ প্রতিরোধ সামাজিক শক্তি অ্যাক্টিভিসম",
+  "author": {
+    "name": "Asif Adnan",
+    "role": "লেখক",
+    "avatar": null,
+    "social": {}
+  },
+  "coverImage": {
+    "url": "./images/cover.png",
+    "caption": "Boycott Coca-Cola",
+    "credit": null
+  },
+  "category": "সমসাময়িক",
+  "tags": [
+    "সমসাময়িক",
+    "প্রতিবাদ",
+    "প্রতিরোধ",
+    "সামাজিক শক্তি",
+    "অ্যাক্টিভিসম"
+  ],
+  "publishedAt": "2024-06-11T12:44:00+06:00",
+  "updatedAt": "2024-06-11T12:44:00+06:00",
+  "version": "1.0.0",
+  "contentPath": "content.md"
+}

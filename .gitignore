@@ -1,0 +1,12 @@
+# System Files
+.DS_Store
+Thumbs.db
+node_modules
+.env
+.idea
+.vscode
+*.log
+
+# Personal
+_drafts/
+_notes/

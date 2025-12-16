@@ -1,0 +1,29 @@
+{
+    "id": "xQr8Z1n9Wm2P",
+    "slug": "consequences-of-sexual-revolution",
+    "title": "অ্যামেরিকার যৌন বিপ্লবের ফলাফল",
+    "subtitle": "সভ্যতা ও সংঘাত",
+    "author": {
+        "name": "Asif Adnan",
+        "role": "লেখক",
+        "avatar": null,
+        "social": {}
+    },
+    "coverImage": {
+        "url": "./images/cover.png",
+        "caption": "Social Consequences",
+        "credit": null
+    },
+    "category": "সভ্যতা ও সংঘাত",
+    "tags": [
+        "সভ্যতা",
+        "সংঘাত",
+        "সমাজ",
+        "পরিবার",
+        "মানসিক স্বাস্থ্য"
+    ],
+    "publishedAt": "2024-03-17T13:12:00+06:00",
+    "updatedAt": "2024-03-17T13:12:00+06:00",
+    "version": "1.0.0",
+    "contentPath": "content.md"
+}

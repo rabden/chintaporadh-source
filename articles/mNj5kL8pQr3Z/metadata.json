@@ -1,0 +1,27 @@
+{
+    "id": "mNj5kL8pQr3Z",
+    "slug": "fatwas-on-transgenderism",
+    "title": "ট্র্যান্সজেন্ডারবাদ নিয়ে বিভিন্ন দেশের আলিমগণের ফতোয়া",
+    "subtitle": null,
+    "author": {
+        "name": "Asif Adnan",
+        "role": "লেখক",
+        "avatar": null,
+        "social": {}
+    },
+    "coverImage": {
+        "url": "./images/cover.png",
+        "caption": "Fatwas on Transgenderism",
+        "credit": null
+    },
+    "category": "Uncategorized",
+    "tags": [
+        "ট্র্যান্সজেন্ডার",
+        "ফতোয়া",
+        "আলিম"
+    ],
+    "publishedAt": "2024-03-16T23:30:00+06:00",
+    "updatedAt": "2024-03-16T23:30:00+06:00",
+    "version": "1.0.0",
+    "contentPath": "content.md"
+}
