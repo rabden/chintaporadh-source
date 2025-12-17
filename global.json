@@ -1,85 +1,149 @@
-[
+{
+  "metadata": {
+    "version": "2.0.0",
+    "lastUpdated": "2024-12-17T00:00:00+06:00"
+  },
+  "categories": [
     {
-        "id": "cJjpTZsYwk_9",
-        "slug": "boycott-coca-cola",
-        "title": "বয়কট কোকাকোলা!",
-        "excerpt": "ইতিহাসের এক গুরুত্বপূর্ণ মুহূর্তে দাঁড়িয়ে আছি আমরা। দশকের পর দশক ধরে ফিলিস্তীনের মুসলিমদের উপর অত্যাচার নির্যাতন চালাচ্ছে অবৈধ রাষ্ট্র ইস্রাইল...",
-        "category": "সমসাময়িক",
-        "tags": [
-            "সমসাময়িক",
-            "প্রতিবাদ",
-            "প্রতিরোধ",
-            "সামাজিক শক্তি",
-            "অ্যাক্টিভিসম"
-        ],
-        "author": {
-            "name": "Asif Adnan",
-            "avatar": null
-        },
-        "coverImage": "articles/cJjpTZsYwk_9/images/cover.png",
-        "publishedAt": "2024-06-11T12:44:00+06:00",
-        "readTime": "10 min read"
+      "id": "cat_K7mN9pQ2xL5a",
+      "name": "সমসাময়িক",
+      "description": "সমসাময়িক বিষয়বস্তু এবং ঘটনা"
     },
     {
-        "id": "xQr8Z1n9Wm2P",
-        "slug": "consequences-of-sexual-revolution",
-        "title": "অ্যামেরিকার যৌন বিপ্লবের ফলাফল",
-        "excerpt": "ক্ষয় হতে হতে অ্যামেরিকার অধিকাংশ পরিবার আজ ফাঁপা খোলসে পরিণত হয়েছে। অ্যামেরিকায় জন্ম হওয়া মোট শিশুর প্রায় ৪১%-ই হলো বিয়ে বহির্ভূত প্রেমের ফসল...",
-        "category": "সভ্যতা ও সংঘাত",
-        "tags": [
-            "সভ্যতা",
-            "সংঘাত",
-            "সমাজ",
-            "পরিবার",
-            "মানসিক স্বাস্থ্য"
-        ],
-        "author": {
-            "name": "Asif Adnan",
-            "avatar": null
-        },
-        "coverImage": "articles/xQr8Z1n9Wm2P/images/cover.png",
-        "publishedAt": "2024-03-17T13:12:00+06:00",
-        "readTime": "6 min read"
+      "id": "cat_R3sT6uV1yW8b",
+      "name": "সভ্যতা ও সংঘাত",
+      "description": "সভ্যতা এবং সামাজিক সংঘাত সম্পর্কিত বিষয়"
     },
     {
-        "id": "pLm9Qn8kZj1R",
-        "slug": "lgbt-agenda-behind-the-scenes-part-5",
-        "title": "বাংলাদেশে এলজিবিটি এজেন্ডার নেপথ্যে কারা? পর্ব ৫",
-        "excerpt": "বাংলাদেশের ট্র্যান্সজেন্ডারবাদ তথা এলজিবিটি এজেন্ডার প্রতিষ্ঠায় এখনো পর্যন্ত সবচেয়ে গুরুতর অবনতি দেখা গেছে আইন এবং শিক্ষার দিকে। তাই এ দুটি বিষয়ের দিকে নজর দেয়া প্রয়োজন আলাদাভাবে...",
-        "category": "সভ্যতা ও সংঘাত",
-        "tags": [
-            "সভ্যতা",
-            "সংঘাত",
-            "এলজিবিটি",
-            "ট্র্যান্সজেন্ডার",
-            "শিক্ষা",
-            "আইন"
-        ],
-        "author": {
-            "name": "Asif Adnan",
-            "avatar": null
-        },
-        "coverImage": "articles/pLm9Qn8kZj1R/images/cover.png",
-        "publishedAt": "2024-01-15T22:25:00+06:00",
-        "readTime": "25 min read"
-    },
-    {
-        "id": "mNj5kL8pQr3Z",
-        "slug": "fatwas-on-transgenderism",
-        "title": "ট্র্যান্সজেন্ডারবাদ নিয়ে বিভিন্ন দেশের আলিমগণের ফতোয়া",
-        "excerpt": "ইসলামওয়েব: حكم الزواج من امرأة متحولة جنسيا https://www.islamweb.net/ar/fatwa/251383...",
-        "category": "Uncategorized",
-        "tags": [
-            "ট্র্যান্সজেন্ডার",
-            "ফতোয়া",
-            "আলিম"
-        ],
-        "author": {
-            "name": "Asif Adnan",
-            "avatar": null
-        },
-        "coverImage": "articles/mNj5kL8pQr3Z/images/cover.png",
-        "publishedAt": "2024-03-16T23:30:00+06:00",
-        "readTime": "1 min read"
+      "id": "cat_B2cD5eF9gH1c",
+      "name": "Uncategorized",
+      "description": "অবর্গীকৃত"
     }
-]
+  ],
+  "authors": [
+    {
+      "id": "author_X9kL2mN5pQ8r",
+      "name": "Asif Adnan",
+      "role": "লেখক",
+      "avatar": null,
+      "bio": null,
+      "social": {}
+    }
+  ],
+  "tags": [
+    {
+      "id": "tag_V1sT4uR7wX0a",
+      "name": "সমসাময়িক"
+    },
+    {
+      "id": "tag_A2bC5dE8fG1b",
+      "name": "প্রতিবাদ"
+    },
+    {
+      "id": "tag_M3nO6pQ9rS2c",
+      "name": "প্রতিরোধ"
+    },
+    {
+      "id": "tag_T4uV7wX0yZ1d",
+      "name": "সামাজিক শক্তি"
+    },
+    {
+      "id": "tag_K5lM8nO1pQ2e",
+      "name": "অ্যাক্টিভিসম"
+    },
+    {
+      "id": "tag_R6sT9uV2wX3f",
+      "name": "সভ্যতা"
+    },
+    {
+      "id": "tag_B7cD0eF3gH4g",
+      "name": "সংঘাত"
+    },
+    {
+      "id": "tag_J8kL1mN4oP5h",
+      "name": "সমাজ"
+    },
+    {
+      "id": "tag_Q9rS2tU5vW6i",
+      "name": "পরিবার"
+    },
+    {
+      "id": "tag_X0yZ3aB6cD7j",
+      "name": "মানসিক স্বাস্থ্য"
+    },
+    {
+      "id": "tag_E1fG4hI7jK8k",
+      "name": "এলজিবিটি"
+    },
+    {
+      "id": "tag_L2mN5oP8qR9l",
+      "name": "ট্র্যান্সজেন্ডার"
+    },
+    {
+      "id": "tag_S3tU6vW9xY0m",
+      "name": "শিক্ষা"
+    },
+    {
+      "id": "tag_Z4aB7cD0eF1n",
+      "name": "আইন"
+    },
+    {
+      "id": "tag_G5hI8jK1lM2o",
+      "name": "ফতোয়া"
+    },
+    {
+      "id": "tag_N6oP9qR2sT3p",
+      "name": "আলিম"
+    }
+  ],
+  "articles": [
+    {
+      "id": "cJjpTZsYwk_9",
+      "slug": "boycott-coca-cola",
+      "title": "বয়কট কোকাকোলা!",
+      "excerpt": "ইতিহাসের এক গুরুত্বপূর্ণ মুহূর্তে দাঁড়িয়ে আছি আমরা। দশকের পর দশক ধরে ফিলিস্তীনের মুসলিমদের উপর অত্যাচার নির্যাতন চালাচ্ছে অবৈধ রাষ্ট্র ইস্রাইল...",
+      "categoryId": "cat_K7mN9pQ2xL5a",
+      "tagIds": ["tag_V1sT4uR7wX0a", "tag_A2bC5dE8fG1b", "tag_M3nO6pQ9rS2c", "tag_T4uV7wX0yZ1d", "tag_K5lM8nO1pQ2e"],
+      "authorId": "author_X9kL2mN5pQ8r",
+      "coverImage": "articles/cJjpTZsYwk_9/images/cover.png",
+      "publishedAt": "2024-06-11T12:44:00+06:00",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "xQr8Z1n9Wm2P",
+      "slug": "consequences-of-sexual-revolution",
+      "title": "অ্যামেরিকার যৌন বিপ্লবের ফলাফল",
+      "excerpt": "ক্ষয় হতে হতে অ্যামেরিকার অধিকাংশ পরিবার আজ ফাঁপা খোলসে পরিণত হয়েছে। অ্যামেরিকায় জন্ম হওয়া মোট শিশুর প্রায় ৪১%-ই হলো বিয়ে বহির্ভূত প্রেমের ফসল...",
+      "categoryId": "cat_R3sT6uV1yW8b",
+      "tagIds": ["tag_R6sT9uV2wX3f", "tag_B7cD0eF3gH4g", "tag_J8kL1mN4oP5h", "tag_Q9rS2tU5vW6i", "tag_X0yZ3aB6cD7j"],
+      "authorId": "author_X9kL2mN5pQ8r",
+      "coverImage": "articles/xQr8Z1n9Wm2P/images/cover.png",
+      "publishedAt": "2024-03-17T13:12:00+06:00",
+      "readTime": "6 min read"
+    },
+    {
+      "id": "pLm9Qn8kZj1R",
+      "slug": "lgbt-agenda-behind-the-scenes-part-5",
+      "title": "বাংলাদেশে এলজিবিটি এজেন্ডার নেপথ্যে কারা? পর্ব ৫",
+      "excerpt": "বাংলাদেশের ট্র্যান্সজেন্ডারবাদ তথা এলজিবিটি এজেন্ডার প্রতিষ্ঠায় এখনো পর্যন্ত সবচেয়ে গুরুতর অবনতি দেখা গেছে আইন এবং শিক্ষার দিকে। তাই এ দুটি বিষয়ের দিকে নজর দেয়া প্রয়োজন আলাদাভাবে...",
+      "categoryId": "cat_R3sT6uV1yW8b",
+      "tagIds": ["tag_R6sT9uV2wX3f", "tag_B7cD0eF3gH4g", "tag_E1fG4hI7jK8k", "tag_L2mN5oP8qR9l", "tag_S3tU6vW9xY0m", "tag_Z4aB7cD0eF1n"],
+      "authorId": "author_X9kL2mN5pQ8r",
+      "coverImage": "articles/pLm9Qn8kZj1R/images/cover.png",
+      "publishedAt": "2024-01-15T22:25:00+06:00",
+      "readTime": "25 min read"
+    },
+    {
+      "id": "mNj5kL8pQr3Z",
+      "slug": "fatwas-on-transgenderism",
+      "title": "ট্র্যান্সজেন্ডারবাদ নিয়ে বিভিন্ন দেশের আলিমগণের ফতোয়া",
+      "excerpt": "ইসলামওয়েব: حكم الزواج من امرأة متحولة جنسيا https://www.islamweb.net/ar/fatwa/251383...",
+      "categoryId": "cat_B2cD5eF9gH1c",
+      "tagIds": ["tag_L2mN5oP8qR9l", "tag_G5hI8jK1lM2o", "tag_N6oP9qR2sT3p"],
+      "authorId": "author_X9kL2mN5pQ8r",
+      "coverImage": "articles/mNj5kL8pQr3Z/images/cover.png",
+      "publishedAt": "2024-03-16T23:30:00+06:00",
+      "readTime": "1 min read"
+    }
+  ]
+}
