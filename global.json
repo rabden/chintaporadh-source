@@ -121,7 +121,7 @@
       "coverImage": "articles/xQr8Z1n9Wm2P/images/cover.png",
       "publishedAt": "2024-03-17T13:12:00+06:00",
       "readTime": "6 min read",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "pLm9Qn8kZj1R",
@@ -134,7 +134,7 @@
       "coverImage": "articles/pLm9Qn8kZj1R/images/cover.png",
       "publishedAt": "2024-01-15T22:25:00+06:00",
       "readTime": "25 min read",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "mNj5kL8pQr3Z",
@@ -147,7 +147,7 @@
       "coverImage": "articles/mNj5kL8pQr3Z/images/cover.png",
       "publishedAt": "2024-03-16T23:30:00+06:00",
       "readTime": "1 min read",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
