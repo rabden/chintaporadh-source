@@ -37,7 +37,7 @@ https://www.apcom.org/i-feel-proud-to-be-a-part-of-history/
 
 <cite sourcelink="https://www.apcom.org/remembering-legacy-shivananda-khan-1948-2013-founder/" sourcetext="Remembering the Legacy of Shivananda Khan (1948 – 2013), the Founder of APCOM" sourcetype="link">উল্লেখযোগ্য যে এই সাক্ষাতকারটি নিয়েছে অ্যাপকম নামের একটি এনজিও। অ্যাপকমেরও অন্যতম প্রতিষ্ঠাতা হল শিবানন্দ খান।</cite>
 
-![শিবানন্দ খান ও তার বন্ধু-রা](https://cdn.jsdelivr.net/gh/rabden/chintaporadh-source@main/articles/uP3iS9dF2gH5/images/5.png)
+![শিবানন্দ খান ও তার বন্ধু-রা](https://cdn.jsdelivr.net/gh/rabden/chintaporadh-source@main/articles/uP3iS9dF2gH5/images/5.jpg)
 
 যেহেতু বিকৃত যৌনতায় লিপ্ত পুরুষদের এইডস আক্রান্ত হবার আশংকা সবচেয়ে বেশি, তাই এইডস মহামারী প্রতিরোধের অংশ হিসেবে সরকারের স্বাস্থ্য মন্ত্রনালয়ের সাথে সহজেই বন্ধু-র মতো এনজিওগুলো কাজ করার সুযোগ পায়। <cite sourcelink="https://www.ashoka.org/en-sg/fellow/shale-ahmed" sourcetext="Ashoka Foundation Fellow: Shale Ahmed" sourcetype="link">এই সময়টাতে কেয়ার বাংলাদেশ (CARE Bangladesh) এর সহযোগী হিসেবেও কাজ করতে শুরু করে বন্ধু। পরবর্তী কয়েক বছরে বন্ধু ফান্ডিং পায় ইউএসএইড, নেদারল্যান্ডের দূতাবাস এবং আন্তর্জাতিক উন্নয়ন বিভাগ (DFID) থেকে।</cite>
 
